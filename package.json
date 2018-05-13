@@ -1,8 +1,8 @@
 {
-  "name": "expensify",
+  "name": "test-craighamilton",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
+  "author": "Craig Hamilton",
   "license": "MIT",
   "scripts": {
     "serve": "live-server public/",
